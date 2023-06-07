@@ -22,12 +22,12 @@ Settings = {
         ["Enabled"] = false
     },
 	["Multipliers"] = {
-		["Giant Chest"] = 3,
-        ["Chest"] = 3,
-        ["Small Chest"] = 3,
-        ["Vault"] = 3,
-        ["Safe"] = 3,
-        ["Present"] = 3
+		["Giant Chest"] = 0,
+        ["Chest"] = 0,
+        ["Small Chest"] = 0,
+        ["Vault"] = 0,
+        ["Safe"] = 0,
+        ["Present"] = 0,
 	},
     ["Webhooks"] = {
         ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1115971442538971177/LM0a2mpKxzD1Nnw_s8XyoJkOESdpmwQhIeanwAPCL-qbBRWFVOTY9XYtFRWa8qddphXg",
